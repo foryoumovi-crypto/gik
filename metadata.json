@@ -1,0 +1,7 @@
+{
+  "name": "The Bungalow Cafe - Surat",
+  "description": "A premium bungalow-style cafe in Adajan, Surat, serving coffee, comfort, and great vibes.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
